@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    printf("Desafio Super Trunfo! \n");
+    
     // Declaração de variáveis para a carta 1
     char estado1;
     char codigo1[4]; // espaço para "A01", "B04", etc
